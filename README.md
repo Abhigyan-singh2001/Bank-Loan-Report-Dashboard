@@ -11,32 +11,51 @@ This dashboard provides a high-level overview of the bank's loan portfolio with 
 
 #### General Loan KPIs:
 Total Loan Applications: Includes Month-to-Date (MTD) and Month-over-Month (MoM) analysis.
+
 Total Funded Amount: Total loans disbursed with MTD and MoM tracking.
+
 Total Amount Received: Cash inflow from loan repayments, including MTD and MoM trends.
+
 Average Interest Rate: Average cost of lending across loans, with MTD and MoM variations.
+
 Average Debt-to-Income Ratio (DTI): Measures borrowers' financial health with MTD and MoM changes.
+
 Good Loans vs. Bad Loans:
+
 Good Loans (Fully Paid & Current):
 
 #### Application Percentage
 Total Applications
+
 Funded Amount
+
 Total Received Amount
+
 Bad Loans (Charged Off):
 
 #### Application Percentage
 Total Applications
+
 Funded Amount
+
 Total Received Amount
+
 Loan Status Grid View:
+
 Displays detailed metrics categorized by loan status:
 
 Total Loan Applications
+
 Total Funded Amount
+
 Total Amount Received
+
 MTD Funded Amount
+
 MTD Amount Received
+
 Average Interest Rate
+
 Average Debt-to-Income Ratio
 
 ### Dashboard 2: Overview
@@ -64,19 +83,29 @@ Categorizes loan metrics by borrowers' home ownership status.
 ## 🛠️ Tools and Technologies
 
 Microsoft Excel: For data processing, analysis, and visualization.
+
 Power Query: To transform and clean data.
+
 Pivot Tables & Charts: For summarizing and visualizing key insights.
+
 
 ## 🚀 How to Use the Dashboard
 
 Open the Excel file containing the dashboards.
+
 Navigate between the Summary and Overview dashboards using the provided tabs.
+
 Use filters to explore data for specific periods, loan statuses, or categories.
+
 Analyze the KPIs and visualizations to gain insights into lending performance and trends.
+
 
 ## 🎯 Insights Gained
 
 Clear understanding of lending trends over time.
+
 Identification of high-performing regions and borrower profiles.
+
 Differentiation between good and bad loans to assess portfolio health.
+
 Data-driven strategies for improving lending activities.
